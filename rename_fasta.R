@@ -1,4 +1,5 @@
 #########################################################################
+# Written by Dale John Kitchin 
 # This script is for renaming sequences in a fasta file.
 # It takes a csv file with the existing names and their corresponding 
 # new names as input along with the fasta file to be renamed.
